@@ -16,8 +16,9 @@ const IndiaCovid = () =>{
 
     return (
         <>
+            
+            <div className="main-div">
             <h1 className="heading" style={{textAlign:'center'}}> <AcUnitIcon className="rotate" /><span className="india-1"> IN</span><span className="india-2">D</span><span className="india-3">IA</span> COVID19<i class="fas fa-disease"></i>STATEWISE STATUS <AcUnitIcon className="rotate" /></h1>
-            <div>
                 <table className="table table-dark">
                     <thead>
                     <tr>

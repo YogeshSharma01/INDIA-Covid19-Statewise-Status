@@ -17,10 +17,8 @@ code {
   margin: 0;
   padding: 0;
 }
-@media  (max-width: 480px) {
- .heading{
-  width: 100%;
-}
+.main-div{
+  display: grid;
 }
 i{
   color: #fff;
