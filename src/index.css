@@ -11,3 +11,58 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.heading{
+  position: relative;
+  background-color: #bbe2c6;
+  margin: 0;
+  padding: 0;
+}
+i{
+  /* color: #f18a97; */
+  color: #fff;
+  -webkit-animation: random 5s infinite;
+  animation: random 5s infinite;
+}
+@keyframes  random {
+  15% { color: red; } 
+  30% { color: yellow; } 
+  45% { color: green; } 
+  60% { color: blue; }
+  75% { color: white; }  
+}
+
+.rotate {
+  color: #000080;
+  animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+.india-1{
+  color: #FF9933;
+}
+.india-2{
+  color: white;
+}
+.india-3{
+  color:darkgreen;
+}
+
+/* .india{
+     color: #fff;
+     -webkit-animation: random 5s infinite;
+     animation: random 5s infinite;
+} */
+/* @keyframes  random {
+  15% { color: #FF9933; } 
+  30% { color: yellow; } 
+  45% { color: darkgreen; } 
+  60% { color: blue; }
+  75% { color: white; }  
+} */
