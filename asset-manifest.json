@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/INDIA-Covid19-Statewise-Status/static/css/main.588c5c97.chunk.css",
-    "main.js": "/INDIA-Covid19-Statewise-Status/static/js/main.917927d6.chunk.js",
-    "main.js.map": "/INDIA-Covid19-Statewise-Status/static/js/main.917927d6.chunk.js.map",
+    "main.css": "/INDIA-Covid19-Statewise-Status/static/css/main.93d9b81d.chunk.css",
+    "main.js": "/INDIA-Covid19-Statewise-Status/static/js/main.56bda22a.chunk.js",
+    "main.js.map": "/INDIA-Covid19-Statewise-Status/static/js/main.56bda22a.chunk.js.map",
     "runtime-main.js": "/INDIA-Covid19-Statewise-Status/static/js/runtime-main.5b9bc41f.js",
     "runtime-main.js.map": "/INDIA-Covid19-Statewise-Status/static/js/runtime-main.5b9bc41f.js.map",
     "static/css/2.4be38407.chunk.css": "/INDIA-Covid19-Statewise-Status/static/css/2.4be38407.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.2c5808f5.chunk.js.map": "/INDIA-Covid19-Statewise-Status/static/js/2.2c5808f5.chunk.js.map",
     "index.html": "/INDIA-Covid19-Statewise-Status/index.html",
     "static/css/2.4be38407.chunk.css.map": "/INDIA-Covid19-Statewise-Status/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.588c5c97.chunk.css.map": "/INDIA-Covid19-Statewise-Status/static/css/main.588c5c97.chunk.css.map",
+    "static/css/main.93d9b81d.chunk.css.map": "/INDIA-Covid19-Statewise-Status/static/css/main.93d9b81d.chunk.css.map",
     "static/js/2.2c5808f5.chunk.js.LICENSE.txt": "/INDIA-Covid19-Statewise-Status/static/js/2.2c5808f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5b9bc41f.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.2c5808f5.chunk.js",
-    "static/css/main.588c5c97.chunk.css",
-    "static/js/main.917927d6.chunk.js"
+    "static/css/main.93d9b81d.chunk.css",
+    "static/js/main.56bda22a.chunk.js"
   ]
 }
