@@ -17,8 +17,12 @@ code {
   margin: 0;
   padding: 0;
 }
+@media  (max-width: 480px) {
+ .heading{
+      width:123vh;
+}
+}
 i{
-  /* color: #f18a97; */
   color: #fff;
   -webkit-animation: random 5s infinite;
   animation: random 5s infinite;
