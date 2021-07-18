@@ -19,7 +19,7 @@ code {
 }
 @media  (max-width: 480px) {
  .heading{
-  width: 189%;
+  width: 100%;
 }
 }
 i{
