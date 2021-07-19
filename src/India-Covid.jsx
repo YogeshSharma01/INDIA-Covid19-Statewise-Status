@@ -16,9 +16,9 @@ const IndiaCovid = () =>{
 
     return (
         <>
-            
             <div className="main-div">
-            <h1 className="heading" style={{textAlign:'center'}}> <span className="india-1"> IN</span><span className="india-2">D</span><span className="india-3">IA</span> <AcUnitIcon className="rotate" /> COVID19<i class="fas fa-disease"></i>STATEWISE STATUS </h1>
+            <h1 className="heading" style={{textAlign:'center'}}><AcUnitIcon className="rotate" /><span className="india-1"> IN</span><span className="india-2">D</span><span className="india-3">IA</span>  COVID19<i class="fas fa-disease"></i>STATEWISE STATUS<AcUnitIcon className="rotate" /></h1>
+            <div className="table table-responsive">
                 <table className="table table-dark">
                     <thead>
                     <tr>
@@ -47,6 +47,7 @@ const IndiaCovid = () =>{
                         }
                     </tbody>
                 </table>
+                </div>
             </div>
         </>
     );
